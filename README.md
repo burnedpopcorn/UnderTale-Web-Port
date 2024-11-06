@@ -6,3 +6,6 @@ Original Decompilation and Enhanced Version HERE: https://github.com/danielah05/
 I WILL NOT BE SHARING THE SOURCE CODE. EXTRACT THE ASSETS YOURSELF
 
 Files to host this yourself on your own website are in Releases
+
+### Issues
+Only issue currently is Screen becomes compressed horizontally when Exiting Fullscreen
